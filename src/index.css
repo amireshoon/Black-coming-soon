@@ -23,3 +23,7 @@ a {
 a:hover {
   color: white;
 }
+
+body {
+  background-color: #000;
+}
